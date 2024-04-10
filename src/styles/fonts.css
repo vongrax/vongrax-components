@@ -1,0 +1,30 @@
+:root {
+    --font-family-releway: "Raleway", "Helvetica", sans-serif;
+
+    --font-5xl-bold: 700 48px/58px var(--font-family-releway);
+    --font-5xl-regular: 400 48px/58px var(--font-family-releway);
+
+    --font-4xl-bold: 700 32px/38px var(--font-family-releway);
+    --font-4xl-regular: 400 32px/38px var(--font-family-releway);
+
+    --font-3xl-bold: 700 26px/32px var(--font-family-releway);
+    --font-3xl-regular: 400 26px/32px var(--font-family-releway);
+
+    --font-2xl-bold: 700 22px/24px var(--font-family-releway);
+    --font-2xl-regular: 400 22px/24px var(--font-family-releway);
+
+    --font-xl-bold: 700 20px/24px var(--font-family-releway);
+    --font-xl: 400 20px/24px var(--font-family-releway);
+
+    --font-l-bold: 700 18px/22px var(--font-family-releway);
+    --font-l: 400 18px/22px var(--font-family-releway);
+
+    --font-m-bold: 700 16px/22px var(--font-family-releway);
+    --font-m: 400 16px/22px var(--font-family-releway);
+
+    --font-s-bold: 700 14px/18px var(--font-family-releway);
+    --font-s: 400 14px/18px var(--font-family-releway);
+
+    --font-xs-bold: 700 12px/14px var(--font-family-releway);
+    --font-xs: 400 12px/14px var(--font-family-releway);
+}

@@ -1,0 +1,7 @@
+:root {
+    --color-primary: #2f68b5;
+    --color-primary-push: #25528f;
+    --color-primary-alfa: rgba(47, 104, 181, 0.2);
+    --color-primary-alfa-push: rgba(47, 104, 181, 0.35);
+    --color-secondary: #d5e1f0;
+}

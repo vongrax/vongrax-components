@@ -1,0 +1,45 @@
+:root {
+    --system-mono-900: #140e38;
+    --system-mono-900-alfa60: rgba(24, 14, 56, 0.6);
+
+    --system-mono-800: #282f3a;
+    --system-mono-800-alfa32: rgba(40, 47, 58, 0.32);
+    --system-mono-800-alfa50: rgba(40, 47, 58, 0.5);
+
+    --system-mono-700: #42464f;
+
+    --system-mono-600: #5b616b;
+
+    --system-mono-500: #717b84;
+
+    --system-mono-400: #9c9dac;
+
+    --system-mono-300: #dadce3;
+
+    --system-mono-200: #eaecf2;
+    --system-mono-200-alfa50: rgba(234, 236, 242, 0.5);
+
+    --system-mono-100: #ffffff;
+    --system-mono-100-alfa70: rgba(255, 255, 255, 0.7);
+
+    --system-mono-radial: radial-gradient(180.98% 99.65% at 84.13% 80.15%, transparent 0%, #eaecf2 100%);
+
+    --system-color-green: #00db8c;
+    --system-color-green-alfa30: rgba(0, 219, 140, 0.3);
+
+    --system-color-dark-red: #f0202c;
+    --system-color-red: #ff8795;
+    --system-color-red-alfa30: rgba(255, 135, 149, 0.3);
+
+    --system-color-yellow: #ffcc16;
+    --system-color-yellow-alfa30: rgba(255, 204, 22, 0.3);
+
+    /* Shadows */
+    --shadow-fixed: 0 4px 30px 0 rgba(0, 0, 0, 0.1);
+    --shadow-l: 0 8px 30px 0 rgba(0, 0, 0, 0.16);
+    --shadow-m: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
+
+    /* Additional colors */
+    --modal-backdrop-filter: blur(10px);
+    --color-gradient: radial-gradient(268.57% 141.09% at -10.09% 28.92%, #f1eeff 0%, #d5e1f0 100%);
+}

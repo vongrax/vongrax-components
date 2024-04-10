@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap");
+@import "fonts.css";
+@import "colors/system.colors.css";
+@import "colors/theme.colors.css";
+
+* {
+    box-sizing: border-box;
+    font-feature-settings: "lnum" !important;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+}
